@@ -114,7 +114,7 @@ const result7 = numeros3.reduce((acumulador, numero) => acumulador * numero, 1);
 const sentenceElements = [
     'Me',
     'llamo',
-    'Bikram', /* Tu nombre aqui! */
+    'Hector',
     'y',
     'quiero',
     'sentir',
