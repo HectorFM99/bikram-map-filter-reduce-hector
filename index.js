@@ -101,9 +101,6 @@ const result6 = inventory
     .filter(producto => producto.price > 300)
     .map(producto => producto.name);
 
-/* ================================
-   REDUCE
-   ================================ */
 
 // Ejercicio 7
 const numeros3 = [39, 2, 4, 25, 62];
